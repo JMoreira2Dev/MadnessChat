@@ -31,7 +31,8 @@ Chat server designed for casual and simple use in the terminal. Built in rust la
 or
 
 ```bash
-  cargo install --git=https://github.com//JMoreira2Dev/MadnessChat.git
+  cargo install --git https://github.com//JMoreira2Dev/MadnessChat.git madness_client
+  cargo install --git https://github.com//JMoreira2Dev/MadnessChat.git madness_server
 ```
 
 ## Usage: 
